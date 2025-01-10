@@ -55,6 +55,14 @@ This is a Node.js application for uploading the media files. It uses Express.js 
 
 4. Use the provided client-side HTML page to upload files to the server.
 
+## Screenshots
+
+Screenshot of the user site website showcasing the main interface and features
+
+<img src="https://github.com/user-attachments/assets/aded1715-3ef0-4638-b980-fcf0f87e0a82" alt="User Site" width="400" align="center"/>
+
+<img src="https://github.com/user-attachments/assets/e5113128-2e7d-46f3-a7ce-cb53e432c602" alt="Post File Process" width="400" align="center"/>
+
 ## Endpoints
 
 ### POST /upload
