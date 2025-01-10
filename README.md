@@ -107,3 +107,7 @@ Checks if a file exists on the server.
         "comment": "File already exists"
     }
     ```
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./gpl-3.0.txt) file for details.
+
